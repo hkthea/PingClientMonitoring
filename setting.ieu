@@ -1,0 +1,9 @@
+[TelegramBot]
+Token=
+
+[Client]
+Total=2
+
+[List]
+Client_0=clientA;192.168.1.10
+Client_1=ClientB;192.168.1.2
