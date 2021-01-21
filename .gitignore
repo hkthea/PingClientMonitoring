@@ -5,3 +5,5 @@ setting.ieu
 *.exe
 Satpam*
 !*.lpr
+!*.lps
+!*.lpi
